@@ -14,3 +14,8 @@ Test on FireFox
 Scenario 1: testID=TZB3P-H4YAW-BEKWH-UYBU5
 Scenario 2: testID=U8Z5R-LJ3FH-PMLS7-YBP9E
 Scenario 3: testID=RCICC-GIELY-QJRE3-NVH1P
+
+Test on Internet Explorer
+Scenario 1: testID=XE11C-MGHHJ-1PX3X-VXRMK
+Scenario 2: testID=6PKTD-RMQWW-A9PWX-ZSTCF
+Scenario 3: testID=XE11C-MGHHJ-1PX3X-VXRMK
